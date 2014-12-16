@@ -16,18 +16,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="nearby_places">Endroits proches</string>
-  <string name="people">Contacts</string>
-  <string name="lookup_settings_label">Recherche numéro de téléphone</string>
-  <string name="lookup_settings_description">Recherche numéros de téléphone inconnus</string>
-  <string name="enable_forward_lookup_title">Recherche avancée</string>
-  <string name="enable_forward_lookup_summary">Afficher les lieux à proximité lors de la recherche avec la pavé numérique</string>
-  <string name="enable_people_lookup_title">Recherche de personnes</string>
-  <string name="enable_people_lookup_summary">Afficher les résultats en ligne sur les personnes lors d\'une recherche avec le composeur</string>
-  <string name="enable_reverse_lookup_title">Recherche inversée</string>
-  <string name="enable_reverse_lookup_summary">Rechercher des informations sur la personne ou le lieu lors d\'un appel entrant d\'un numéro inconnu</string>
-  <string name="forward_lookup_provider_title">Fournisseur de recherche avancée</string>
-  <string name="people_lookup_provider_title">Fournisseur de données sur les appelants</string>
-  <string name="reverse_lookup_provider_title">Fournisseur de recherche inversée</string>
-  <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinois (CN)</string>
+  <string name="nearby_places">Lugares cercanos</string>
+  <string name="people">Personas</string>
+  <string name="lookup_settings_label">Buscar numero de telefono</string>
+  <string name="lookup_settings_description">Buscar numeros desconocidos</string>
+  <string name="enable_forward_lookup_title">Buscar siguiente</string>
+  <string name="enable_forward_lookup_summary">Mostrar lugares cercanos al buscar en el marcador</string>
+  <string name="enable_people_lookup_title">Buscar personas</string>
+  <string name="enable_people_lookup_summary">Mostrar resultados de personas en linea cuando buscas en el marcador</string>
+  <string name="enable_reverse_lookup_title">Búsqueda inversa</string>
+  <string name="enable_reverse_lookup_summary">Buscar informacion acerca de personas o lugares de numeros desconocidos en llamadas entrantes</string>
+  <string name="forward_lookup_provider_title">Siguiente proveedor de busqueda</string>
+  <string name="people_lookup_provider_title">Proveedor de busqueda para personas</string>
+  <string name="reverse_lookup_provider_title">Revertir proveedor de busqueda</string>
+  <string name="cyngn_reverse_lookup_provider_name">Cyngn chino (CN)</string>
 </resources>
